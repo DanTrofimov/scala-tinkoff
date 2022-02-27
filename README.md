@@ -1,4 +1,4 @@
 # scala-tinkoff
-Курс разработки на Scala. 
+Scala development course.
 
-Презентации с лекций и семинаров доступны здесь - https://tinkoff-scala.github.io/.
+Presentations from lectures and seminars are available here - https://tinkoff-scala.github.io/.
