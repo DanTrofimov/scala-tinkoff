@@ -1,7 +1,7 @@
 # Конвертер валют и коллекции
 ## Конвертер валют
 Ваша задача реализовать простой конвертер валют. 
-```scala=
+```scala
 object Currencies {
     val SupportedCurrencies = List("RUB", "USD", "EUR")
 }
@@ -47,7 +47,7 @@ object CurrencyConverter {
 - Используйте эту зависимость в `build.sbt` в настройке `libraryDependencies` в `root` модуле
 - Создайте пакет converter in `src/test/scala`
 - Создайте `CurrencyConverterSpec.scala` файл и добавьте в него снипет ниже
-```scala=
+```scala
 
 class CurrencyConverterSpec extends AnyFlatSpec with Matchers {
   "exchange" should "convert money for supported currencies" in {
