@@ -6,4 +6,4 @@ Presentations from lectures and seminars are available here - https://tinkoff-sc
 
 SBT documentation - https://www.scala-sbt.org/
 
-Scala docs - https://docs.scala-lang.org/
+Scala docs - https://docs.scala-lang.org/tour/tour-of-scala.html
